@@ -13,19 +13,15 @@
     
 }
 
-#main-background{
-    position: 
-    
-}
-
 #wrapper {
-    max-width: 1200px;
+    max-width: 1350px;
     height: auto;
     margin: 0 auto;
     display: block;
 }
+
 #wrapper img{
-    width:100%;
+    height:100%;
 }
 
 .jumbotron{
