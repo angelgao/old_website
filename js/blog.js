@@ -8,7 +8,7 @@ angular.module('blogLoaderApp', ['ngResource', 'ngSanitize'])
 		});
 
 	$scope.redirect = function (data){
-		$window.location.href = 'file:///C:/Angel/projects/startbootstrap-clean-blog-1.0.3/startbootstrap-clean-blog-1.0.3/post.html#?id='+data;
+		$window.location.href = '/post.html#?id='+data;
 	};
 
   });
